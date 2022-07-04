@@ -1,84 +1,84 @@
 {
     "shoppinglist": [
             { 
-            "name": "Bubble Washing liquid",
-            "serial No" : "12345",
-            "quantity": "2l",
-            "Unit":"1",
-            "department":"Soaps",
-            "notes":"Only bubble wahing liquid is needed"
+            "SlNo" : "1",
+            "Name": "Bubble Washing liquid",
+            "Quantity": "2",
+            "Unit":"Nos",
+            "Department":"Soaps",
+            "Notes":"Only bubble wahing liquid is needed"
             },
             {
-            "name": "Jasmin Washing Soap",
-            "serial No" : "12346",
-            "quantity": "500gms",
-            "Unit":"6",
-            "department":"Soaps",
-            "notes":"Only Jasmin Washing Soap is needed"
+            "SlNo" : "2",
+            "Name": "Jasmin Washing Soap",
+            "Quantity": "500",
+            "Unit":"ml",
+            "Department":"Soaps",
+            "Notes":"Only Jasmin Washing Soap is needed"
             },
             {
-            "name": "Matta Rice ",
-            "serial No" : "12347",
-            "quantity": "10kg",
-            "Unit":"1",
-            "department":"Rice",
-            "notes":"Only Matta Rice is needed"
+            "SlNo" : "3",
+            "Name": "Matta Rice ",
+            "Quantity": "10",
+            "Unit":"kg",
+            "Department":"Rice",
+            "Notes":"Only Matta Rice is needed"
             },
             {
-            "name": "Onion ",
-            "serial No" : "12348",
-            "quantity": "1kg",
-            "Unit":"1",
-            "department":"Vegetables",
-            "notes":"Only small onions are needed"
+            "SlNo" : "4",
+            "Name": "Onion ",
+            "Quantity": "1",
+            "Unit":"kg",
+            "Department":"Vegetables",
+            "Notes":"Only small onions are needed"
             },
             {
-            "name": "Tomato",
-            "serial No" : "12349",
-            "quantity": "1kg",
-            "Unit":"1",
-            "department":"Vegetables",
-            "notes":"Only red tomatos  are needed"
+            "SlNo" : "5",
+            "Name": "Tomato",
+            "Quantity": "1",
+            "Unit":"kg",
+            "Department":"Vegetables",
+            "Notes":"Only red tomatos  are needed"
             },
             {
-            "name": "Potato",
-            "serial No" : "12350",
-            "quantity": "1kg",
-            "Unit":"1",
-            "department":"Vegetables",
-            "notes":"Only baby potatos  are needed"
+            "SlNo" : "6",
+            "Name": "Potato",
+            "Quantity": "1",
+            "Unit":"kg",
+            "Department":"Vegetables",
+            "Notes":"Only baby potatos  are needed"
             },
             {
-            "name": "Amul Cheese",
-            "serial No" : "12351",
-            "quantity": "500gms",
-            "Unit":"1",
-            "department":"Dairy",
-            "notes":"Only Amul Cheese slices  are needed"
+            "SlNo" : "7",
+            "Name": "Amul Cheese",
+            "Quantity": "500",
+            "Unit":"gms",
+            "Department":"Dairy",
+            "Notes":"Only Amul Cheese slices  are needed"
             },
             {
-            "name": "Curd",
-            "serial No" : "12352",
-            "quantity": "500l",
-            "Unit":"2",
-            "department":"Dairy",
-            "notes":"Only Milma Curd is needed"
+            "SlNo" : "8",
+            "Name": "Curd",
+            "Quantity": "500",
+            "Unit":"l",
+            "Department":"Dairy",
+            "Notes":"Only Milma Curd is needed"
             },
             { 
-            "name": "Lentils",
-            "serial No" : "12353",
-            "quantity": "500gms",
-            "Unit":"1",
-            "department":"Grains",
-            "notes":"Only good quality is needed"
+            "SlNo" : "9",
+            "Name": "Lentils",
+            "Quantity": "500",
+            "Unit":"gms",
+            "Department":"Grains",
+            "Notes":"Only good quality is needed"
             },
             { 
-            "name": "Sunflower Oil",
-            "serial No" : "12354",
-            "quantity": "500l",
-            "Unit":"2",
-            "department":"Oils",
-            "notes":"Only good quality is needed"
+            "SlNo" : "10",
+            "Name": "Sunflower Oil",
+            "Quantity": "500",
+            "Unit":"l",
+            "Department":"Oils",
+            "Notes":"Only good quality is needed"
             }    
     ]
 }
