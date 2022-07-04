@@ -13,7 +13,7 @@ xhttp.onreadystatechange = function(){
        }
        out+="</table>";
     document.getElementById("demo").innerHTML =out; 
-    document.getElementById("head").innerHTML ="<h1>Grocery shopping List</h1>"; 
+    document.getElementById("head").innerHTML ="<h1> Grocery shopping List </h1>"; 
 }
 };
 xhttp.open("GET","list.json",true);
